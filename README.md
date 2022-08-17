@@ -28,7 +28,7 @@ Beaumont, Matthew. Nightwalking: A Nocturnal History of London. London: Verso, 2
 <param ve-image 
 label="Griffiths, Arthur. Mysteries of police and crime. In three volumes. London: Cassell, 1901-1902." 
        description="Illustration" 
-       license="Middle Temple Library" 
+       license="CC BY-SA 4.0" 
      url="https://www.middletemple.org.uk/sites/default/files/Uploads/17th%20century%20night%20watchman.jpg">
      
 ## ‘Many burglaries and robberies’: Elizabethan policing (1585-1600)
@@ -36,8 +36,8 @@ label="Griffiths, Arthur. Mysteries of police and crime. In three volumes. Londo
 During the height of the Elizabethan period, in 1585, further reforms to policing were introduced through a private Bill, which was then enacted under the title Act for the good government of the city and borough of Westminster (27 Eliz. Private.) Certain ordinances were made under this act for the regulation of domestic life in the City of Westminster. Bakers, brewers, colliers, woodmongers and bargemen were under strict rule as to how they were allowed to conduct their trade. The Act establishes the number of watchmen per-ward and the duties involved.
 <param ve-image 
 label="The number of watchmen per-ward stipulated in 27 Eliz. Private" 
-       description="" 
-       license="" 
+       description="Text" 
+       license="CC BY-SA 4.0" 
      url="https://www.middletemple.org.uk/sites/default/files/Uploads/27%20Eliz.%20Private.jpg">
        
 ## ‘Are you good men and true?’: Shakespeare’s Night Watch
@@ -47,14 +47,14 @@ He goes on to outline that they must make no noise when on duty; to ensure that 
 <param ve-image 
        label="Malone, Edward. Ed. The plays and poems of William Shakespeare, with the corrections and illustrations of various commentators: comprehending a life of the poet, and an enlarged history of the stage. In 21 volumes. London: C. Baldwin, 1821." 
        description="Text" 
-       license="Middle Temple Library" 
+       license="CC BY-SA 4.0" 
        url="https://www.middletemple.org.uk/sites/default/files/Uploads/Dogberry.jpg">
        
 <param ve-image 
        label="Shakespeare, William. 1600 (Quarto version). Much ado about Nothing. London./
 https://internetshakespeare.uvic.ca/Library/facsimile/book/BPL_Q1_Ado/37/?work=&zoom=600" 
        description="photograph" 
-       license="Middle Temple Library" 
+       license="CC BY-SA 4.0"
        url="https://www.middletemple.org.uk/sites/default/files/Uploads/IMG_0047.JPG">
        
 ## ‘The Last of the Charlies’ 1640-1863
@@ -63,7 +63,7 @@ William Anthony was believed to be the last remaining Charlie, born in 1789 and 
 <param ve-image 
        label="Griffiths, Arthur. Mysteries of police and crime. In three volumes. London: Cassell, 1901-1902." 
        description="Illustration" 
-       license="Middle Temple Library" 
+       license="CC BY-SA 4.0"
        url="https://www.middletemple.org.uk/sites/default/files/Uploads/Last%20of%20the%20Charlies.jpg">
        
 ## ‘Suspected of evil designs’: Eighteenth-century policing
@@ -72,14 +72,14 @@ Two further legislative reforms took place in the early and latter years of the 
 <param ve-image 
        label="10 Geo II, c. 22" 
        description="text" 
-       license="Middle Temple Library" 
+       license="CC BY-SA 4.0" 
        url="https://www.middletemple.org.uk/sites/default/files/Uploads/10%20Geo%202%20c20%20An%20act%20for%20the%20better%20regulating%20the%20Nightly%20Watch....jpg">
 \
 The second Act, which was passed in 1777 (14 Geo III, c. 90), took elements of the 1585 and 1737 legislation – in effect repealing them both – and outlined, clearly, the logistical elements of the Watch: the annual number of watchmen; their wages; how they were to be armed and accommodated. The Act went on to detail a list of duties and how they were to conduct themselves whilst on duty. However, the watchmen developed reputations for being untrustworthy and, themselves, agents of crime. The general consensus was that reform was needed.
 <param ve-image 
        label="14 Geo III, c. 90" 
        description="text" 
-       license="Middle Temple Library" 
+       license="CC BY-SA 4.0"
        url="https://www.middletemple.org.uk/sites/default/files/Uploads/14%20Geo%203%20c90%20An%20Act%20for%20the%20better%20Regulation%20of%20the%20Nightly%20Watch.jpg">
 
 ## ‘[A] proper body of honest, able, and active Officers’ [1798]
@@ -89,19 +89,19 @@ His comments follow those of Henry Fielding’s, whose work Colquhoun greatly ad
 <param ve-image 
        label="Colquhoun, Patrick. 1798. A Treatise on the Police of the Metropolis: Containing a Detail of the Various Crimes and Misdemeanors by which Public and Private Property and Security Are, at Present, Injured and Endangered, and Suggesting Remedies for Their Prevention. London. (Courtesy of the Library at The Honourable Society of Lincoln’s Inn)" 
        description="photograph" 
-       license="Middle Temple Library" 
+       license="CC BY-SA 4.0" 
        url="https://www.middletemple.org.uk/sites/default/files/Uploads/IMG_0048.JPG">
 
 <param ve-image 
        label="Colquhoun, Patrick. 1798. A Treatise on the Police of the Metropolis: Containing a Detail of the Various Crimes and Misdemeanors by which Public and Private Property and Security Are, at Present, Injured and Endangered, and Suggesting Remedies for Their Prevention. London. (Courtesy of the Library at The Honourable Society of Lincoln’s Inn)" 
        description="text" 
-       license="Middle Temple Library" 
+       license="CC BY-SA 4.0"
        url="https://www.middletemple.org.uk/sites/default/files/Uploads/Colquhoun%201.jpg">
 
 <param ve-image 
        label="Colquhoun, Patrick. 1798. A Treatise on the Police of the Metropolis: Containing a Detail of the Various Crimes and Misdemeanors by which Public and Private Property and Security Are, at Present, Injured and Endangered, and Suggesting Remedies for Their Prevention. London. (Courtesy of the Library at The Honourable Society of Lincoln’s Inn)" 
        description="text" 
-       license="Middle Temple Library" 
+       license="CC BY-SA 4.0" 
        url="https://www.middletemple.org.uk/sites/default/files/Uploads/Colquhoun%202.jpg">
 
 ## A Treatise on the commerce and police of the River Thames
@@ -111,7 +111,7 @@ Depredations on the Thames Act 1800 (3 Geo III. C. 87) received Royal Assent on 
 <param ve-image 
        label="3 Geo III. C. 87" 
        description="text" 
-       license="Middle Temple Library" 
+       license="CC BY-SA 4.0"
        url="https://www.middletemple.org.uk/sites/default/files/Uploads/An%20act%20for%20the%20more%20effectual%20prevention.jpg">
 
 ## Near where the charter'd Thames does flow: London at the turn of the century
@@ -128,7 +128,7 @@ The narrator, whilst walking the streets of London, expresses the sense of stric
        label="Colquhoun, Patrick. 1800. A Treatise on the Commerce and Police of the River Thames: Containing an Historical View of the Trade of the Port of London [...] With an Account of the Functions of the Various Magistrates and Corporations Exercising Jurisdiction on the River. London.
 (Courtesy of the Library at The Honourable Society of Lincoln’s Inn)" 
        description="Photograph" 
-       license="Middle Temple Library" 
+       license="CC BY-SA 4.0"
        url="https://www.middletemple.org.uk/sites/default/files/Uploads/IMG_0051.JPG">
        
 ## Brothers and Magistrates: The Fieldings
@@ -139,12 +139,12 @@ John Fielding ‘was a most active and energetic magistrate, and he was such a c
 <param ve-image 
        label="Fielding's entry in the Barristers' Ledger (MT.3/BAL/1)" 
        description="Photograph" 
-       license="Middle Temple Library" 
+       license="CC BY-SA 4.0" 
        url="https://www.middletemple.org.uk/sites/default/files/Uploads/Fielding%27s%20entry%20in%20the%20Barristers%27%20ledger.jpg">
 <param ve-image 
        label="Griffiths, Arthur. Mysteries of police and crime. In three volumes. London: Cassell, 1901-1902." 
        description="Photograph" 
-       license="Middle Temple Library" 
+       license="CC BY-SA 4.0" 
        url="https://www.middletemple.org.uk/sites/default/files/Uploads/IMG_0056.JPG">
        
 ## The Bow Street Runners (1749)
@@ -152,7 +152,7 @@ Once regarded as the nexus of the police establishment in the mid-eighteenth cen
 <param ve-image 
        label="Bow Street plaque" 
        description="Photograph" 
-       license="Creative Commons attribution 2.0" 
+       license="CC BY-SA 4.0" 
        url="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Bow_Street_plaque.JPG/450px-Bow_Street_plaque.JPG?20140923200945">
 
 ## Bow Street Police Museum
@@ -162,7 +162,7 @@ This recently-opened museum tells the story of the Bow Street Runners and the Me
 <param ve-image 
        label="Bow Street Magistrates Court." 
        description="Photograph" 
-       license="Creative Commons attribution 2.0" 
+       license="CC BY-SA 4.0" 
        url="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Bow_Street_Magistrates_Court-514555747.jpg/640px-Bow_Street_Magistrates_Court-514555747.jpg">
 
 ## The mind-forg'd manacles: crime in 19th century literary London
@@ -173,7 +173,7 @@ A member of the Honourable Society of the Middle Temple himself, before pursuing
        label="Pair of shackles/handcuffs with key and rope (1800s)\
 A pair of linked prison shackles with their key attached to them with a rope. The shackles originally belonged to Leslie Gilbert Brennan (Master Brennan's father). Donated to the library June 2014 by Master Janice Brennan." 
        description="Photograph" 
-       license="Middle Temple Library" 
+       license="CC BY-SA 4.0"
        url="https://www.middletemple.org.uk/sites/default/files/Uploads/IMG_0059.JPG">
 
 ## ‘Remedying this Growing Evil’: Fielding and the Prevention of Crime (1751)
@@ -184,25 +184,25 @@ The frontispiece of Fielding’s Enquiry, quotes Cicero: ‘For the lusts of the
 <param ve-image 
        label="Fielding, Henry. 1751. An Enquiry into the Cause of the Late Increase of Robbers, &c., With Some Proposals for Remedying this Growing Evil. London." 
        description="Photograph" 
-       license="Middle Temple Library" 
+       license="CC BY-SA 4.0" 
        url="https://www.middletemple.org.uk/sites/default/files/Uploads/Increase%20of%20robbers%201.jpg">
        
 <param ve-image 
        label="Fielding, Henry. 1751. An Enquiry into the Cause of the Late Increase of Robbers, &c., With Some Proposals for Remedying this Growing Evil. London." 
        description="Text" 
-       license="Middle Temple Library" 
+       license="CC BY-SA 4.0" 
        url="https://www.middletemple.org.uk/sites/default/files/Uploads/Increase%20of%20robbers%202.jpg">
        
 <param ve-image 
        label="Lawrence, Frederick. The life of Henry Fielding : with notices of his writings, his times and his contemporaries. London: Arthur Hall, Virtue and Co. 1855." 
        description="Photograph" 
-       license="Middle Temple Library" 
+       license="CC BY-SA 4.0" 
        url="https://www.middletemple.org.uk/sites/default/files/Uploads/IMG_0058.JPG">
        
 <param ve-image 
        label="Jones, B.M. Henry Fielding, novelist and magistrate. London: George Allen & Unwin, 1933." 
        description="Photograph" 
-       license="Middle Temple Library" 
+       license="CC BY-SA 4.0" 
        url="https://www.middletemple.org.uk/sites/default/files/Uploads/IMG_0057.JPG">
        
 ## Metropolitan Police Act 1829
@@ -211,7 +211,7 @@ Peel’s solution and the next significant step forwards lay in the Metropolitan
 <param ve-image 
        label="Metropolitan Police Act 1929" 
        description="Photograph" 
-       license="Middle Temple Library" 
+       license="CC BY-SA 4.0" 
        url="https://user-images.githubusercontent.com/110111269/184673359-9c39523c-94d8-45d4-8b67-3073e8d102cf.jpg">
 
 ## Responses to the new Metropolitan Police Service, 1829
@@ -224,13 +224,13 @@ Babbington, A. A House in Bow Street. 2nd ed. London: Barry Rose Law Publishers,
        label="The early years of the police were marred by violent clashes, which did little to change the animosity amongst the population towards the new organisation.\
        The police, wearing Peel’s early uniform, contend with a mob at at Coldbath fields, 1833. Griffiths, Arthur. Mysteries of police and crime. In three volumes. London: Cassell, 1901-1902." 
        description="Illustration" 
-       license="Middle Temple Library" 
+       license="CC BY-SA 4.0" 
        url="https://www.middletemple.org.uk/sites/default/files/Uploads/Fight%20between%20police%20and%20mob%20at%20coldbath%20fields%20in%201833.jpg">
 
 <param ve-image 
        label="Charnock, Richard. The police guide : containing the Metropolitan and City of London Police Acts. London: Richards, 1841." 
        description="Illustration" 
-       license="Middle Temple Library" 
+       license="CC BY-SA 4.0"
        url="https://www.middletemple.org.uk/sites/default/files/Uploads/IMG_0060.JPG">
 
 ## Met Museums & Archives
@@ -240,7 +240,7 @@ The Metropolitan Police’s heritage team looks after objects, archives, books a
 <param ve-image 
        label="1840s City of London Police constable's uniform" 
        description="Photograph" 
-       license="Creative Commons attribution 2.0" 
+       license="CC BY-SA 4.0" 
        url="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/1840s_City_of_London_Police_constable%27s_uniform.jpg/337px-1840s_City_of_London_Police_constable%27s_uniform.jpg?20200503123854">
 
 
@@ -251,7 +251,7 @@ In a letter to Peel, The Duke of Wellington, on November 5, 1829, congratulated 
 <param ve-image 
        label="Stuart Parker, C. Sir Robert Peel in early life ... as Irish Secretary ... and as Secretary of State ... from his private correspondence. In three volumes. London: John Murray, 1891-1899." 
        description="Photograph" 
-       license="Middle Temple Library" 
+       license="CC BY-SA 4.0" 
        url="https://www.middletemple.org.uk/sites/default/files/Uploads/IMG_0061.JPG">
        
 ## City Police and the Middle Temple (1857)
@@ -260,7 +260,7 @@ The introduction of the City Police to Middle Temple in 1857 was a contentious i
 <param ve-image 
        label="Middle Temple Hall" 
        description="Photograph" 
-       license="Middle Temple Library" 
+       license="CC BY-SA 4.0" 
        url="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Middle_Temple_Hall_Exterior%2C_London%2C_UK_-_Diliff.jpg/800px-Middle_Temple_Hall_Exterior%2C_London%2C_UK_-_Diliff.jpg?20140314094909">
 
 ## 7 May 1857 & 17 June 1857
@@ -270,13 +270,13 @@ On the 7th May Middle Temple agrees to consolidate the Inn’s police under one 
 <param ve-image 
        label="Resolution, 7th May 1857" 
        description="Photograph" 
-       license="Middle Temple Library" 
+       license="CC BY-SA 4.0" 
        url="https://www.middletemple.org.uk/sites/default/files/Uploads/IMG_0064.JPG">
 
 <param ve-image 
        label="Resolution, 17th June 1857" 
        description="Photograph" 
-       license="Middle Temple Library" 
+       license="CC BY-SA 4.0" 
        url="https://www.middletemple.org.uk/sites/default/files/Uploads/IMG_0062.JPG">
        
 ## 12 June 1857    
@@ -286,7 +286,7 @@ The petition states that it is with ‘extreme regret’ that they hear the Mast
 <param ve-image 
        label="Petition, 12th June 1857" 
        description="Photograph" 
-       license="Middle Temple Library" 
+       license="CC BY-SA 4.0" 
        url="https://www.middletemple.org.uk/sites/default/files/Uploads/IMG_0063.JPG">
        
 ## 16 July 1857     
@@ -303,7 +303,7 @@ George Bowyer\
 <param ve-image 
        label="George Bowyer, 16th July 1857" 
        description="Photograph" 
-       license="Middle Temple Library" 
+       license="CC BY-SA 4.0" 
        url="https://user-images.githubusercontent.com/110111269/184659167-3bc54c88-cca0-43eb-a9a1-6f1cc5720649.JPG">
 
 ## 25 July 1857     
@@ -319,7 +319,7 @@ George Bowyer\
 <param ve-image 
        label="George Bowyer, 25th July 1857" 
        description="Photograph" 
-       license="Middle Temple Library" 
+       license="CC BY-SA 4.0" 
        url="https://www.middletemple.org.uk/sites/default/files/Uploads/IMG_0067.JPG">
 
 ## 5 October 1857
@@ -333,7 +333,7 @@ I hereby give you notice and require of you to put a stop to the nuisance caused
 <param ve-image 
        label="Richard Paternoster, 5th October 1857" 
        description="Photograph" 
-       license="Middle Temple Library" 
+       license="CC BY-SA 4.0" 
        url="https://www.middletemple.org.uk/sites/default/files/Uploads/IMG_0066.JPG">
        
 ## 27 October 1857        
@@ -347,7 +347,7 @@ I am loathe to give notice to quit in these chambers which suit me well, but the
 <param ve-image 
        label="A.V.Kirwan, 27th October 1857" 
        description="Photograph" 
-       license="Middle Temple Library" 
+       license="CC BY-SA 4.0" 
        url="https://user-images.githubusercontent.com/110111269/184658934-a8a250a9-7fcc-407a-a4a6-4bbe42972ca6.JPG">
       
 
@@ -358,7 +358,7 @@ This is Watchman & Porter badge number five, of seven badges held in total. It w
 <param ve-image 
        label="Middle Temple Watchman and Porter Badge number 5" 
        description="Photograph" 
-       license="Middle Temple Library" 
+       license="CC BY-SA 4.0" 
        url="https://www.middletemple.org.uk/sites/default/files/Uploads/IMG_0053.JPG">
        
 ## A hand-drawn plan showing the beats taken by Watchmen around the Inn circa 1850
@@ -369,7 +369,7 @@ Porters and watchmen have served the Middle Temple for centuries, dating back at
 <param ve-image 
        label="Beats of the Middle Temple Watchmen 1850" 
        description="Photograph" 
-       license="Middle Temple Library" 
+       license="CC BY-SA 4.0" 
        url="https://www.middletemple.org.uk/sites/default/files/Uploads/IMG_0052.JPG">
 
 ## The following individuals have made significant contributions to the creation of this exhibition:
