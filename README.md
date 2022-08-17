@@ -381,6 +381,7 @@ Siobhán Prendergast, Conservator, Middle Temple\
 Dunstan Speight, Librarian, Lincoln’s Inn\
 Francesca Tate, Assistant Archivist, Middle Temple\
 Patrick Ghirardello, Senior Library Assistant, Middle Temple\
+\
 [Middle Temple Library](www.middletemplelibrary.org.uk)
 <param ve-image 
        label="Middle Temple Hall" 
