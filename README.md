@@ -260,8 +260,8 @@ The introduction of the City Police to Middle Temple in 1857 was a contentious i
 <param ve-image 
        label="Middle Temple Hall" 
        description="Photograph" 
-       license="CC BY-SA 4.0" 
-       url="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Middle_Temple_Hall_Exterior%2C_London%2C_UK_-_Diliff.jpg/800px-Middle_Temple_Hall_Exterior%2C_London%2C_UK_-_Diliff.jpg?20140314094909">
+       license="CC BY-SA 4.0"
+       url="https://user-images.githubusercontent.com/110464039/185089337-d8de32c0-02f0-4a0e-a336-004791754e4d.png">
 
 ## 7 May 1857 & 17 June 1857
 
@@ -381,5 +381,9 @@ Siobhán Prendergast, Conservator, Middle Temple\
 Dunstan Speight, Librarian, Lincoln’s Inn\
 Francesca Tate, Assistant Archivist, Middle Temple\
 Patrick Ghirardello, Senior Library Assistant, Middle Temple\
-
 [Middle Temple Library](www.middletemplelibrary.org.uk)
+<param ve-image 
+       label="Middle Temple Hall" 
+       description="Photograph" 
+       license="CC BY-SA 4.0" 
+       url="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Middle_Temple_Hall_Exterior%2C_London%2C_UK_-_Diliff.jpg/800px-Middle_Temple_Hall_Exterior%2C_London%2C_UK_-_Diliff.jpg?20140314094909">
