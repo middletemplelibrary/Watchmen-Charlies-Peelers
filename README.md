@@ -374,11 +374,11 @@ Porters and watchmen have served the Middle Temple for centuries, dating back at
 
 ## The following individuals have made significant contributions to the creation of this exhibition:
 
-Jake Hearn, Assistant Librarian, Middle Temple
-Barnaby Bryan, Archivist, Middle Temple
-Liane Owen, Book Conservator, Middle Temple
-Siobhán Prendergast, Conservator, Middle Temple
-Dunstan Speight, Librarian, Lincoln’s Inn
-Francesca Tate, Assistant Archivist, Middle Temple 
+Jake Hearn, Assistant Librarian, Middle Temple\
+Barnaby Bryan, Archivist, Middle Temple\
+Liane Owen, Book Conservator, Middle Temple\
+Siobhán Prendergast, Conservator, Middle Temple\
+Dunstan Speight, Librarian, Lincoln’s Inn\
+Francesca Tate, Assistant Archivist, Middle Temple\
 Patrick Ghirardello, Senior Library Assistant, Middle Temple
 
