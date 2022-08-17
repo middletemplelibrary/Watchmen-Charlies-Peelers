@@ -384,7 +384,7 @@ Patrick Ghirardello, Senior Library Assistant, Middle Temple\
 \
 [Middle Temple Library](www.middletemplelibrary.org.uk)
 <param ve-image 
-       label="Middle Temple Hall" 
+       label="Middle Temple" 
        description="Photograph" 
        license="CC BY-SA 4.0" 
        url="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Middle_Temple_Hall_Exterior%2C_London%2C_UK_-_Diliff.jpg/800px-Middle_Temple_Hall_Exterior%2C_London%2C_UK_-_Diliff.jpg?20140314094909">
