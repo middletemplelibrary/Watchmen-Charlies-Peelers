@@ -299,11 +299,7 @@ I beg to add that a very strong feeling prevails on the subject. Many members of
 Your obedient servant,\
 George Bowyer\
 \
-
-https://user-images.githubusercontent.com/110464039/185079713-ec89f7ad-8eaa-4017-af82-403e6cc37a48.mp4
-
-
-[Audio](https://drive.google.com/file/d/1Mo0JtqO69hrH8mM3CKsuLQi7t5sABJWD/view?usp=sharing)
+[Audio](https://user-images.githubusercontent.com/110464039/185080594-9bc54281-eb92-4a99-b1ab-58da47697040.mp4)
 <param ve-image 
        label="George Bowyer, 16th July 1857" 
        description="Photograph" 
@@ -319,7 +315,7 @@ In answer to your letter of the 21st I beg to say that I have no wish to make co
 Your obedient servant,\
 George Bowyer\
 \
-[Audio](https://drive.google.com/file/d/1Qa_FKOGq0IobFtkM_WXYn4CosaXFi5Uv/view?usp=sharing)
+[Audio](https://user-images.githubusercontent.com/110464039/185081002-4333e8b7-e69e-4a70-82d5-fc045cae10c7.mp4)
 <param ve-image 
        label="George Bowyer, 25th July 1857" 
        description="Photograph" 
@@ -333,7 +329,7 @@ To the Treasurer of the Middle Temple,\
 \
 I hereby give you notice and require of you to put a stop to the nuisance caused to me by policemen tramping under my windows at night from the noise of which my rest is continually broken every night my comfort and privacy entirely destroyed and my health materially injured and my chambers rendered untenantable and which noise and nuisance are in violation of the contract entered into when I took chambers at this society of which I am a member and a partner and contrary to the ancient and immemorial rights customs and privileges of this Inn.\
 \
-[Audio](https://drive.google.com/file/d/1sJ06wEwfzCIUSnZ5LvMozIzSvpqDzZ8W/view?usp=sharing)
+[Audio](https://user-images.githubusercontent.com/110464039/185081116-24e8fc07-09b3-426a-9065-a6ded0640efe.mp4)
 <param ve-image 
        label="Richard Paternoster, 5th October 1857" 
        description="Photograph" 
@@ -347,7 +343,7 @@ Letter from A.V. Kirwan complaining of noise at his window caused by the Police'
 Dear Sir,\
 I am loathe to give notice to quit in these chambers which suit me well, but the truth is, since the police have come in it is impossible to sit here for the noises. The old warders drove away children and noisy drunken people, but the police allow them to congregate. I would also mention that the ticket porters one [illegible] especially is continuing making a noise and using low and obscene language under my window while idly sitting on the bench in Tanfield Court. I regret to be obliged to complain but the nuisance has been quite intolerable for some months.\
 \
-[Audio](https://drive.google.com/file/d/1QEip1mH1J4gq0qjyEZGmEWI5CwMF4r6B/view?usp=sharing)
+[Audio](https://user-images.githubusercontent.com/110464039/185081211-8c5b0ad0-223b-4eb7-80db-271fda01b9b7.mp4)
 <param ve-image 
        label="A.V.Kirwan, 27th October 1857" 
        description="Photograph" 
