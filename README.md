@@ -14,7 +14,7 @@ The story of policing in London is a mutable and ever-changing one. The earliest
 <param ve-image 
        label="Stubbs, W. Select charters and other illustrations of English constitutional history : from the earliest times to the reign of Edward the First. 9th ed. Oxford: Oxford University Press, 1913." 
        description="photograph" 
-       license="Middle Temple Library" 
+       license="CC BY-SA 4.0"
        url="https://www.middletemple.org.uk/sites/default/files/Uploads/IMG_0046.JPG">
        
 ## Nightwatchmen and Nightwalkers (1500-1600)
