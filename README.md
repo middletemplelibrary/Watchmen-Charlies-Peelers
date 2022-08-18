@@ -258,7 +258,7 @@ In a letter to Peel, The Duke of Wellington, on November 5, 1829, congratulated 
 
 The introduction of the City Police to Middle Temple in 1857 was a contentious issue. The following documents on display are petitions and letters from members concerned by the introduction of the police to Middle Temple, expressing grave concerns about their purpose and presence.
 <param ve-image 
-       label="Thomas O'Connor, Head Porter of the Middle Temple" 
+       label="Thomas O'Connor, Head Porter of the Middle Temple 1914-1927" 
        description="Photograph" 
        attribution="Middle Temple Archive"
        url="https://user-images.githubusercontent.com/110464039/185089337-d8de32c0-02f0-4a0e-a336-004791754e4d.png">
