@@ -1,7 +1,5 @@
 <a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
 
-<link href='https://cdn.knightlab.com/libs/soundcite/latest/css/player.css' rel='stylesheet' type='text/css'><script type='text/javascript' src='https://cdn.knightlab.com/libs/soundcite/latest/js/soundcite.min.js'></script>
-
 <param ve-config 
        title="Watchmen, Charlies, Peelers: The Story of Policing"
        author="Middle Temple Library"
@@ -13,8 +11,6 @@
 ## Watch and Ward: Early Policing (1233-1500)
 
 The story of policing in London is a mutable and ever-changing one. The earliest recorded effort to establish a formal system of policing can be traced back to the reign of King Edward I in his statute of 1285: The Statute of Winchester (13 Edw. I, St. 2). The statute – often referred to as Watch and Ward – received royal ascent on 8th October 1285. It sought to consolidate the various enduring regulations of peace that had existed from the law of Edgar and Canute, through to William the Conqueror, Henry II and Richard I, and reform the system of the watchmen. The statute enforced the need for maintenance of peace in the City of London by outlining that inhabitants of every district must take it upon themselves to remain vigilant and challenge criminal behaviour. It enshrined that those committing the ‘many evils, as murders, robberies, and manslaughters’ must be taken by the keepers of the peace to a place of confinement and punished only if the offence if proved. This loosely mirrors the law and order system in our society today.
-
-<span class="soundcite" data-url="/media/bach-cello-suite.mp3" data-start="0" data-end="164000" data-plays="1">listen</span>
 
 <param ve-image 
        label="Stubbs, W. Select charters and other illustrations of English constitutional history : from the earliest times to the reign of Edward the First. 9th ed. Oxford: Oxford University Press, 1913." 
