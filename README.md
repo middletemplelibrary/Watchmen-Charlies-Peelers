@@ -314,7 +314,6 @@ Sir,\
 In answer to your letter of the 21st I beg to say that I have no wish to make complaints against the Police. They are a most useful and a respectable body of men. But they are out of place in a collegiate house like the Temple, and inconveniences must result from their introduction here. The style and ancient collegiate character of the house are altered by the late change. We no longer see the servants of the house in their liveries at the gates, and in the courts and gardens. The Temple is now like a London street, and no longer like a college. It’s privacy and peculiar gentlemen-like character are destroyed, which were quite a remarkable feature of London, and this has been done on the paltry plea of saving £210 a year and ultimately £300 a year [£25,000 to £35,000 by today’s standards] without consulting the wishes and feelings of the barristers living in the Inn. They will soon find the Temple so changed that they will many of them go to live elsewhere to the diminution of the rents of the Society. I beg that this letter may be laid before the Masters of the Bench.\
 Your obedient servant,\
 George Bowyer\
-\
 
 [Audio](https://user-images.githubusercontent.com/110464039/185081002-4333e8b7-e69e-4a70-82d5-fc045cae10c7.mp4)
 <param ve-image 
@@ -322,7 +321,7 @@ George Bowyer\
        description="Photograph" 
        license="CC BY-SA 4.0" 
        url="https://www.middletemple.org.uk/sites/default/files/Uploads/IMG_0067.JPG">
-
+\
 
 ## 5 October 1857
 
