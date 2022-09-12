@@ -316,9 +316,6 @@ Your obedient servant,\
 George Bowyer\
 \
 
-<link href='https://cdn.knightlab.com/libs/soundcite/latest/css/player.css' rel='stylesheet' type='text/css'><script type='text/javascript' src='https://cdn.knightlab.com/libs/soundcite/latest/js/soundcite.min.js'></script>
-
-
 [Audio](https://user-images.githubusercontent.com/110464039/185081002-4333e8b7-e69e-4a70-82d5-fc045cae10c7.mp4)
 <param ve-image 
        label="George Bowyer, 25th July 1857" 
