@@ -299,7 +299,6 @@ I beg to call your attention to the fact that a short time ago a barrister of th
 I beg to add that a very strong feeling prevails on the subject. Many members of the Middle Temple feel that for sake of a paltry saving, which good management would have rendered [illegible], the collegiate character of the house has been destroyed, and the privileges of this honourable society extinguished by a self-elected body.<br>
 Your obedient servant,<br>
 George Bowyer
-
 [Audio](https://user-images.githubusercontent.com/110464039/185080594-9bc54281-eb92-4a99-b1ab-58da47697040.mp4)
 <param ve-image 
        label="George Bowyer, 16th July 1857" 
