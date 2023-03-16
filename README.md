@@ -349,7 +349,7 @@ I am loathe to give notice to quit in these chambers which suit me well, but the
        label="A.V.Kirwan, 27th October 1857" 
        description="Photograph" 
        license="CC BY-SA 4.0" 
-       url="https://user-images.githubusercontent.com/110464039/225689172-d727e741-f9c6-427a-9b44-3a1f699b5b6b.JPG">
+       url="https://user-images.githubusercontent.com/110464039/225689999-45de7161-92b0-4506-9604-f21e5ed58893.JPG">
 
 ## The badge of a Middle Temple Watchman circa 1842
 
