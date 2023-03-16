@@ -107,7 +107,7 @@ His comments follow those of Henry Fielding’s, whose work Colquhoun greatly ad
 
 ## A Treatise on the commerce and police of the River Thames
 
-Presented to George III in 1800, Colquhoun’s second treatise analysed the commerce and police of the River Thames, specifically, the petty and organised crime on trade taking place on London’s great river. Its publication followed the establishment of the ‘River Police’ in 1798, founded in an attempt to quell the increase in criminal activity and sustain the prevention of crime for the long-term. Colquhoun’s work – in the form of his Treatise and establishment of an irregular police force, both supported by the philosopher Jeremy Bentham – had such an impact, that the government passed an act to establish the river police as a public body.\
+Presented to George III in 1800, Colquhoun’s second treatise analysed the commerce and police of the River Thames, specifically, the petty and organised crime on trade taking place on London’s great river. Its publication followed the establishment of the ‘River Police’ in 1798, founded in an attempt to quell the increase in criminal activity and sustain the prevention of crime for the long-term. Colquhoun’s work – in the form of his Treatise and establishment of an irregular police force, both supported by the philosopher Jeremy Bentham – had such an impact, that the government passed an act to establish the river police as a public body.<br>
 Depredations on the Thames Act 1800 (3 Geo III. C. 87) received Royal Assent on 28th July 1800 and set out the regulations on how the newly increased, and now formally established, River Police were to operate; reporting directly to the Home Secretary.
 <param ve-image 
        label="3 Geo III. C. 87" 
@@ -117,8 +117,8 @@ Depredations on the Thames Act 1800 (3 Geo III. C. 87) received Royal Assent on 
 
 ## Near where the charter'd Thames does flow: London at the turn of the century
 
-Contemporaries to Patrick Colquhoun include the writers William Blake (1767-1827) and William Wordsworth (1770-1850), both of whom wrote about London during the turn-of-the-nineteenth-century in their poetry. Blake’s poem ‘London’ (Songs of Experience, 1794) paints an oppressive and hopeless view of London:\
-<br>
+Contemporaries to Patrick Colquhoun include the writers William Blake (1767-1827) and William Wordsworth (1770-1850), both of whom wrote about London during the turn-of-the-nineteenth-century in their poetry. Blake’s poem ‘London’ (Songs of Experience, 1794) paints an oppressive and hopeless view of London:
+<br><br>
 I wander thro' each charter'd street,<br>
 Near where the charter'd Thames does flow.<br>
 And mark in every face I meet<br>
@@ -217,9 +217,9 @@ Peel’s solution and the next significant step forwards lay in the Metropolitan
 
 ## Responses to the new Metropolitan Police Service, 1829
 
-‘The fact that the Metropolitan Police, founded amidst an atmosphere of prejudice, suspicion, and hostility, grew into one of the most respected police forces in the world, must be largely due to the outstanding ability of the first Commissioners, a retired army officer, Colonel Rowan, and a barrister, Mr. (later Sir Richard) Mayne [of Lincoln’s Inn]. These two, between them, moulded the concept of the unarmed, citizen-constable, equally conscious of his civic as of his peace-keeping responsibilities, which has been such a valued feature of the administrative life in this country ever since. […]\
-A couple of the instructions to the police issued at the outset by Mayne may be quoted, as they set the pattern for the standards of behaviour he wished them to follow. A constable, he said, must have “a perfect command of temper”, and “must never suffer himself to be moved in the slightest degree by any language or threats that may be used”. Next, “The constables are to recollect on all occasions that they are required to execute their duty with good temper and discretion; any unnecessary violence by them in striking the party in their charge, will be severely punished. […]\
-The code of discipline was rigorous and during the first nine years of the force, nearly 5,000 constables were dismissed for failing to fulfil its requirements.’\
+‘The fact that the Metropolitan Police, founded amidst an atmosphere of prejudice, suspicion, and hostility, grew into one of the most respected police forces in the world, must be largely due to the outstanding ability of the first Commissioners, a retired army officer, Colonel Rowan, and a barrister, Mr. (later Sir Richard) Mayne [of Lincoln’s Inn]. These two, between them, moulded the concept of the unarmed, citizen-constable, equally conscious of his civic as of his peace-keeping responsibilities, which has been such a valued feature of the administrative life in this country ever since. […]<br>
+A couple of the instructions to the police issued at the outset by Mayne may be quoted, as they set the pattern for the standards of behaviour he wished them to follow. A constable, he said, must have “a perfect command of temper”, and “must never suffer himself to be moved in the slightest degree by any language or threats that may be used”. Next, “The constables are to recollect on all occasions that they are required to execute their duty with good temper and discretion; any unnecessary violence by them in striking the party in their charge, will be severely punished. […]<br>
+The code of discipline was rigorous and during the first nine years of the force, nearly 5,000 constables were dismissed for failing to fulfil its requirements.’<br>
 Babbington, A. A House in Bow Street. 2nd ed. London: Barry Rose Law Publishers, 1999.
 <param ve-image 
        label="The early years of the police were marred by violent clashes, which did little to change the animosity amongst the population towards the new organisation.<br>
@@ -282,7 +282,7 @@ On the 7th May Middle Temple agrees to consolidate the Inn’s police under one 
        
 ## 12 June 1857    
 
-Petition of 121 Barristers to the Masters of the Bench against the introduction of the Police.\
+Petition of 121 Barristers to the Masters of the Bench against the introduction of the Police.<br>
 The petition states that it is with ‘extreme regret’ that they hear the Masters of the Bench intend to allow in the Metropolitan Police, a decision they believe ‘besides destroying the collegiate atmosphere of the Inn, will be fraught with many obvious inconveniences. They go on to say that the ‘character and discipline’ of the staff of watchmen has been ‘greatly improved’, and that they would be ‘perfectly content’ to leave the protection of their property to the police of the Inn. The petition was presented to Parliament that day.
 <param ve-image 
        label="Petition, 12th June 1857" 
@@ -295,7 +295,7 @@ The petition states that it is with ‘extreme regret’ that they hear the Mast
 Letter from George Bowyer concerning a barrister having been dragged from the Temple by the Police.
 <br><br>
 Sir,<br>
-I beg to call your attention to the fact that a short time ago a barrister of the Middle Temple was dragged out of the Temple in the night by the Police, and compelled to appear before the city magistrate in the morning. I do not inquire whether he was right or wrong. I only ask whether this scandal on our house could possibly have happened under our ancient and immemorial system. I should like to know what would be thought of a graduate residing in a college in Oxford or Cambridge being so treated. It seems to me that this event shows the inconveniences which are likely to arise from the act of the benchers, who have altered the character of the house and its ancient constitution and privileges, without even ascertaining the wishes and feelings of the barristers residing therein.\
+I beg to call your attention to the fact that a short time ago a barrister of the Middle Temple was dragged out of the Temple in the night by the Police, and compelled to appear before the city magistrate in the morning. I do not inquire whether he was right or wrong. I only ask whether this scandal on our house could possibly have happened under our ancient and immemorial system. I should like to know what would be thought of a graduate residing in a college in Oxford or Cambridge being so treated. It seems to me that this event shows the inconveniences which are likely to arise from the act of the benchers, who have altered the character of the house and its ancient constitution and privileges, without even ascertaining the wishes and feelings of the barristers residing therein.<br>
 I beg to add that a very strong feeling prevails on the subject. Many members of the Middle Temple feel that for sake of a paltry saving, which good management would have rendered [illegible], the collegiate character of the house has been destroyed, and the privileges of this honourable society extinguished by a self-elected body.<br>
 Your obedient servant,<br>
 George Bowyer
@@ -312,7 +312,7 @@ George Bowyer
 Letter from George Bowyer to the Under-Treasurer concerning the presence of the Police in the Inn and its effect on its style and collegiate character.
 <br><br>
 Sir,<br>
-In answer to your letter of the 21st I beg to say that I have no wish to make complaints against the Police. They are a most useful and a respectable body of men. But they are out of place in a collegiate house like the Temple, and inconveniences must result from their introduction here. The style and ancient collegiate character of the house are altered by the late change. We no longer see the servants of the house in their liveries at the gates, and in the courts and gardens. The Temple is now like a London street, and no longer like a college. It’s privacy and peculiar gentlemen-like character are destroyed, which were quite a remarkable feature of London, and this has been done on the paltry plea of saving £210 a year and ultimately £300 a year [£25,000 to £35,000 by today’s standards] without consulting the wishes and feelings of the barristers living in the Inn. They will soon find the Temple so changed that they will many of them go to live elsewhere to the diminution of the rents of the Society. I beg that this letter may be laid before the Masters of the Bench.\
+In answer to your letter of the 21st I beg to say that I have no wish to make complaints against the Police. They are a most useful and a respectable body of men. But they are out of place in a collegiate house like the Temple, and inconveniences must result from their introduction here. The style and ancient collegiate character of the house are altered by the late change. We no longer see the servants of the house in their liveries at the gates, and in the courts and gardens. The Temple is now like a London street, and no longer like a college. It’s privacy and peculiar gentlemen-like character are destroyed, which were quite a remarkable feature of London, and this has been done on the paltry plea of saving £210 a year and ultimately £300 a year [£25,000 to £35,000 by today’s standards] without consulting the wishes and feelings of the barristers living in the Inn. They will soon find the Temple so changed that they will many of them go to live elsewhere to the diminution of the rents of the Society. I beg that this letter may be laid before the Masters of the Bench.<br>
 Your obedient servant,<br>
 George Bowyer<br>
 
@@ -325,7 +325,7 @@ George Bowyer<br>
 
 ## 5 October 1857
 
-Letter from Richard Paternoster to the Treasurer, complaining of the noise made by the Police outside his chambers at night, and its effects on his health.\
+Letter from Richard Paternoster to the Treasurer, complaining of the noise made by the Police outside his chambers at night, and its effects on his health.<br>
 To the Treasurer of the Middle Temple,
 <br><br>
 I hereby give you notice and require of you to put a stop to the nuisance caused to me by policemen tramping under my windows at night from the noise of which my rest is continually broken every night my comfort and privacy entirely destroyed and my health materially injured and my chambers rendered untenantable and which noise and nuisance are in violation of the contract entered into when I took chambers at this society of which I am a member and a partner and contrary to the ancient and immemorial rights customs and privileges of this Inn.<br>
