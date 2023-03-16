@@ -20,11 +20,11 @@ The story of policing in London is a mutable and ever-changing one. The earliest
        
 ## Nightwatchmen and Nightwalkers (1500-1600)
 
-Watchmen were ill-equipped, poorly paid and often corrupt, inept figures of ridicule. They were expected to check those passing through the gates and keep the streets as empty as possible. The Nightwatchmen had an often complex relationship with the Nightwalkers they were intended to police, as nightwalking continued to be at least indirectly criminalized until the nineteenth century.\
-‘These incumbents, who often had a job in the daytime too, tended to be desperate for any kind of employment. They were by no means qualified or trained to patrol the streets. And they didn't have a uniform. Instead, they put on thick, dark cloaks or coats to insulate them from the cold, and shrouded their heads in hats or long pieces of rag. […]\
+Watchmen were ill-equipped, poorly paid and often corrupt, inept figures of ridicule. They were expected to check those passing through the gates and keep the streets as empty as possible. The Nightwatchmen had an often complex relationship with the Nightwalkers they were intended to police, as nightwalking continued to be at least indirectly criminalized until the nineteenth century.<br>
+‘These incumbents, who often had a job in the daytime too, tended to be desperate for any kind of employment. They were by no means qualified or trained to patrol the streets. And they didn't have a uniform. Instead, they put on thick, dark cloaks or coats to insulate them from the cold, and shrouded their heads in hats or long pieces of rag. […]<br>
 Furthermore, though some of them carried halberds or staffs, they were often armed with no more than candle-lanterns […]
-It is therefore not a complete overstatement to claim that public order in the metropolis at night in the sixteenth and seventeenth centuries depended on elderly, infirm, often inebriated, occasionally nefarious individuals […]\
-On the mean streets of the sixteenth and seventeenth centuries, before the introduction of public lighting, but perhaps right up to the introduction of a professional metropolitan police force in the early nineteenth century, nightwalkers and nightwatchmen, dressed alike in tattered, ragged clothes, could be hard to discriminate.’\
+It is therefore not a complete overstatement to claim that public order in the metropolis at night in the sixteenth and seventeenth centuries depended on elderly, infirm, often inebriated, occasionally nefarious individuals […]<br>
+On the mean streets of the sixteenth and seventeenth centuries, before the introduction of public lighting, but perhaps right up to the introduction of a professional metropolitan police force in the early nineteenth century, nightwalkers and nightwatchmen, dressed alike in tattered, ragged clothes, could be hard to discriminate.’<br>
 Beaumont, Matthew. Nightwalking: A Nocturnal History of London. London: Verso, 2016.
 <param ve-image 
 label="Griffiths, Arthur. Mysteries of police and crime. In three volumes. London: Cassell, 1901-1902." 
@@ -43,7 +43,7 @@ label="The number of watchmen per-ward stipulated in 27 Eliz. Private"
        
 ## ‘Are you good men and true?’: Shakespeare’s Night Watch
 
-Early watchmen were considered as incompetent and, oftentimes, illiterate. In Shakespeare’s Much Ado About Nothing (1600), Dogberry, the constable of Messina who oversees the prince’s night watch, is depicted as such in the instructions he issues and the language he employs. In Act III, Scene iii, Dogberry instructs the watch to make sure that those who are drunk get to bed and be left.\
+Early watchmen were considered as incompetent and, oftentimes, illiterate. In Shakespeare’s Much Ado About Nothing (1600), Dogberry, the constable of Messina who oversees the prince’s night watch, is depicted as such in the instructions he issues and the language he employs. In Act III, Scene iii, Dogberry instructs the watch to make sure that those who are drunk get to bed and be left.<br>
 He goes on to outline that they must make no noise when on duty; to ensure that nurses are not woken while the children in their care are crying, and to offend no-one. Dogberry confuses the word ‘sensible’ with ‘senseless’, enforcing the stereotype that the watchmen’s philosophy towards peace-keeping is lax at best and senseless at worst.
 <param ve-image 
        label="Malone, Edward. Ed. The plays and poems of William Shakespeare, with the corrections and illustrations of various commentators: comprehending a life of the poet, and an enlarged history of the stage. In 21 volumes. London: C. Baldwin, 1821." 
@@ -59,7 +59,7 @@ https://internetshakespeare.uvic.ca/Library/facsimile/book/BPL_Q1_Ado/37/?work=&
        url="https://www.middletemple.org.uk/sites/default/files/Uploads/IMG_0047.JPG">
        
 ## ‘The Last of the Charlies’ 1640-1863
-Watchmen were often referred to as ‘Charlies’ after Charles I encouraged their more extensive use, establishing a paid watch in 1640, although it may also be related to the name Charlie being used as a term for an unreliable or foolish person.\
+Watchmen were often referred to as ‘Charlies’ after Charles I encouraged their more extensive use, establishing a paid watch in 1640, although it may also be related to the name Charlie being used as a term for an unreliable or foolish person.<br>
 William Anthony was believed to be the last remaining Charlie, born in 1789 and patrolling Spitalfields and Norton Folgate for 50 years until his death in 1863. He was regarded as an effective and determined presence, recording an unbroken sequence of ‘All’s Well’ throughout his tenure.
 <param ve-image 
        label="Griffiths, Arthur. Mysteries of police and crime. In three volumes. London: Cassell, 1901-1902." 
@@ -75,7 +75,7 @@ Two further legislative reforms took place in the early and latter years of the 
        description="text" 
        license="CC BY-SA 4.0" 
        url="https://www.middletemple.org.uk/sites/default/files/Uploads/10%20Geo%202%20c20%20An%20act%20for%20the%20better%20regulating%20the%20Nightly%20Watch....jpg">
-\
+<br>
 The second Act, which was passed in 1777 (14 Geo III, c. 90), took elements of the 1585 and 1737 legislation – in effect repealing them both – and outlined, clearly, the logistical elements of the Watch: the annual number of watchmen; their wages; how they were to be armed and accommodated. The Act went on to detail a list of duties and how they were to conduct themselves whilst on duty. However, the watchmen developed reputations for being untrustworthy and, themselves, agents of crime. The general consensus was that reform was needed.
 <param ve-image 
        label="14 Geo III, c. 90" 
@@ -84,8 +84,8 @@ The second Act, which was passed in 1777 (14 Geo III, c. 90), took elements of t
        url="https://www.middletemple.org.uk/sites/default/files/Uploads/14%20Geo%203%20c90%20An%20Act%20for%20the%20better%20Regulation%20of%20the%20Nightly%20Watch.jpg">
 
 ## ‘[A] proper body of honest, able, and active Officers’ [1798]
-Scottish magistrate Patrick Colquhoun (1745-1820) had a profound impact on the policing system in London during the late eighteenth and early nineteenth centuries. In his Treatise on the Police of the Metropolis, Colquhoun outlined the untrustworthiness of the authorities whose job it was to protect civilians – this was in direct response to eighteenth-century public opinions towards those in authority. Further to this general analysis, Colquhoun went on to outline the need for a ‘proper body of honest, able, and active officers and patroles’.\
-His comments follow those of Henry Fielding’s, whose work Colquhoun greatly admired; it summarised commonplace criminal offenses in London, and provided suggestions on how to prevent them.\
+Scottish magistrate Patrick Colquhoun (1745-1820) had a profound impact on the policing system in London during the late eighteenth and early nineteenth centuries. In his Treatise on the Police of the Metropolis, Colquhoun outlined the untrustworthiness of the authorities whose job it was to protect civilians – this was in direct response to eighteenth-century public opinions towards those in authority. Further to this general analysis, Colquhoun went on to outline the need for a ‘proper body of honest, able, and active officers and patroles’.<br>
+His comments follow those of Henry Fielding’s, whose work Colquhoun greatly admired; it summarised commonplace criminal offenses in London, and provided suggestions on how to prevent them.<br>
 [Yeats, Grant David. 1818. A biographical sketch of the life and writings of Patrick Colquhoun. London:](https://archive.org/details/abiographicalsk00yeatgoog/page/n10/mode/2up)
 <param ve-image 
        label="Colquhoun, Patrick. 1798. A Treatise on the Police of the Metropolis: Containing a Detail of the Various Crimes and Misdemeanors by which Public and Private Property and Security Are, at Present, Injured and Endangered, and Suggesting Remedies for Their Prevention. London. (Courtesy of the Library at The Honourable Society of Lincoln’s Inn)" 
@@ -118,12 +118,12 @@ Depredations on the Thames Act 1800 (3 Geo III. C. 87) received Royal Assent on 
 ## Near where the charter'd Thames does flow: London at the turn of the century
 
 Contemporaries to Patrick Colquhoun include the writers William Blake (1767-1827) and William Wordsworth (1770-1850), both of whom wrote about London during the turn-of-the-nineteenth-century in their poetry. Blake’s poem ‘London’ (Songs of Experience, 1794) paints an oppressive and hopeless view of London:\
-\
-I wander thro' each charter'd street,\
-Near where the charter'd Thames does flow.\
-And mark in every face I meet\
-Marks of weakness, marks of woe.\
-\
+<br>
+I wander thro' each charter'd street,<br>
+Near where the charter'd Thames does flow.<br>
+And mark in every face I meet<br>
+Marks of weakness, marks of woe.<br>
+<br>
 The narrator, whilst walking the streets of London, expresses the sense of stricture they feel upon entering the city: a reference to the London’s urban dominance over the ‘wild’ countryside, often depicted in Romantic poetry of the late eighteenth and long nineteenth centuries. Blake’s depiction of the ‘charter’d Thames’ not only highlights the rise of the industrial revolution and the growth of commerce in the Great City, but also the excessiveness of mapping and legalism. Colquhoun’s charter’d map of the Thames in his Treatise outlines the increase of law enforcement throughout the city and, unintentionally, stands as testament to Blake’s vision of London as an authoritarian metropolitan hub.
 <param ve-image 
        label="Colquhoun, Patrick. 1800. A Treatise on the Commerce and Police of the River Thames: Containing an Historical View of the Trade of the Port of London [...] With an Account of the Functions of the Various Magistrates and Corporations Exercising Jurisdiction on the River. London.
@@ -135,7 +135,7 @@ The narrator, whilst walking the streets of London, expresses the sense of stric
 ## Brothers and Magistrates: The Fieldings
 
 The immortal novelist, Henry Fielding (1707-1754), and his brother, Sir John (1721-1780), were catalysts of change to the policing system in the eighteenth-century. Admitted to the Honourable Society of the Middle Temple in 1737, Henry Fielding was called to the bar there in 1740.
-A novelist and comic dramatist, often, alongside his contemporary Samuel Richardson (1689-1761), referred to as the father of the English modern novel, Fielding’s career as a barrister and magistrate is often overlooked. His work as a magistrate was highly praised due to his judicial reform and improvement of prison conditions.  Fielding supplemented the income from his practice as a barrister by writing novels, the most famous of which today is Tom Jones; a significant novel that highlights Fielding’s interest in the law and its upkeep.\
+A novelist and comic dramatist, often, alongside his contemporary Samuel Richardson (1689-1761), referred to as the father of the English modern novel, Fielding’s career as a barrister and magistrate is often overlooked. His work as a magistrate was highly praised due to his judicial reform and improvement of prison conditions.  Fielding supplemented the income from his practice as a barrister by writing novels, the most famous of which today is Tom Jones; a significant novel that highlights Fielding’s interest in the law and its upkeep.<br>
 John Fielding ‘was a most active and energetic magistrate, and he was such a constant terror to evil-doers that his life was often threatened’. He followed his brother’s tenure as Bow Street magistrate in 1754, after Henry’s death, and was renowned for dealing efficiently with highwaymen, housebreakers, lead-stealers, shoplifters, and the pickpockets – the small fry of the criminal world.
 <param ve-image 
        label="Fielding's entry in the Barristers' Ledger (MT.3/BAL/1)" 
@@ -158,7 +158,7 @@ Once regarded as the nexus of the police establishment in the mid-eighteenth cen
 
 ## Bow Street Police Museum
 
-This recently-opened museum tells the story of the Bow Street Runners and the Metropolitan Police officers who patrolled the streets of Covent Garden in their footsteps. From eighteenth century crime fighting to the closure of one of London's first police stations in 1992, explore the important and fascinating tales of Bow Street and its unique links with police history.\
+This recently-opened museum tells the story of the Bow Street Runners and the Metropolitan Police officers who patrolled the streets of Covent Garden in their footsteps. From eighteenth century crime fighting to the closure of one of London's first police stations in 1992, explore the important and fascinating tales of Bow Street and its unique links with police history.<br>
 [Museum website](https://bowstreetpolicemuseum.org.uk/)
 <param ve-image 
        label="Bow Street Magistrates Court." 
@@ -168,10 +168,10 @@ This recently-opened museum tells the story of the Bow Street Runners and the Me
 
 ## The mind-forg'd manacles: crime in 19th century literary London
 
-The image of shackles and handcuffs has become synonymous with convicts and criminal activity. These symbols of wrongdoing were propagated and popularised in literary works, such a Great Expectations, published in full in 1861 by Charles Dickens (1812-1870). The novel opens with the eponymous Philip ‘Pip’ Pirrip stealing an iron file for Abel Magwitch – the novel’s wrongly-accused convict – to escape from his leg-bound shackles. The above scenes from Great Expectations outline a conversation between Pip and his sister and brother-in-law, Joe, about the Hulks – prison ships. The Hulks transported those who murdered, robbed, forged and did ‘all sorts of bad’ to Australia in the nineteenth century as a means of punishment.\
+The image of shackles and handcuffs has become synonymous with convicts and criminal activity. These symbols of wrongdoing were propagated and popularised in literary works, such a Great Expectations, published in full in 1861 by Charles Dickens (1812-1870). The novel opens with the eponymous Philip ‘Pip’ Pirrip stealing an iron file for Abel Magwitch – the novel’s wrongly-accused convict – to escape from his leg-bound shackles. The above scenes from Great Expectations outline a conversation between Pip and his sister and brother-in-law, Joe, about the Hulks – prison ships. The Hulks transported those who murdered, robbed, forged and did ‘all sorts of bad’ to Australia in the nineteenth century as a means of punishment.<br>
 A member of the Honourable Society of the Middle Temple himself, before pursuing a career in writing, Dickens, often, wrote scathingly about the corruptness and incompetence of those supposed to be upholding the law. In the above scene, the narrator specifically targets both the constables and Bow Street Runners for their persistence ‘in trying to fit the circumstances to the ideas, instead of trying to extract ideas from the circumstances.’ Upholding and maintaining the law was one thing; but detecting and catching criminals was another.
 <param ve-image 
-       label="Pair of shackles/handcuffs with key and rope (1800s)\
+       label="Pair of shackles/handcuffs with key and rope (1800s)<br>
 A pair of linked prison shackles with their key attached to them with a rope. The shackles originally belonged to Leslie Gilbert Brennan (Master Brennan's father). Donated to the library June 2014 by Master Janice Brennan." 
        description="Photograph" 
        license="CC BY-SA 4.0"
@@ -179,8 +179,8 @@ A pair of linked prison shackles with their key attached to them with a rope. Th
 
 ## ‘Remedying this Growing Evil’: Fielding and the Prevention of Crime (1751)
 
-Henry Fielding’s Enquiry – published in January 1751 – was written during his tenure as Bow Street Magistrate from 1748 until 1753.  Fielding was not only concerned with establishing a new system of policing, but was also focused on the long-term prevention of crime. This approach was commended by Patrick Colquhoun, who, in a footnote in his own Treatise of 1800, outlined that Fielding was both ‘able and excellent’ in his role as Justice of the Peace and for his work on ‘remedying this growing evil’ that had ‘manifested’ in London.\
-The frontispiece of Fielding’s Enquiry, quotes Cicero: ‘For the lusts of these men are no longer moderate, and their wantonness is inhuman and unbearable, they think of nothing but murder, arson, and rape’. His use of Greek literature was an analogy to the state of public morality and crime in the mid-eighteenth century. His Enquiry went on to have a lasting influence on the debate about the prevention of crime in London, leading up to Sir Robert Peel’s Metropolitan Police Act in 1829.\
+Henry Fielding’s Enquiry – published in January 1751 – was written during his tenure as Bow Street Magistrate from 1748 until 1753.  Fielding was not only concerned with establishing a new system of policing, but was also focused on the long-term prevention of crime. This approach was commended by Patrick Colquhoun, who, in a footnote in his own Treatise of 1800, outlined that Fielding was both ‘able and excellent’ in his role as Justice of the Peace and for his work on ‘remedying this growing evil’ that had ‘manifested’ in London.<br>
+The frontispiece of Fielding’s Enquiry, quotes Cicero: ‘For the lusts of these men are no longer moderate, and their wantonness is inhuman and unbearable, they think of nothing but murder, arson, and rape’. His use of Greek literature was an analogy to the state of public morality and crime in the mid-eighteenth century. His Enquiry went on to have a lasting influence on the debate about the prevention of crime in London, leading up to Sir Robert Peel’s Metropolitan Police Act in 1829.<br>
 [Fielding, Henry. 1751. An Enquiry into the Cause of the Late Increase of Robbers, &c., With Some Proposals for Remedying this Growing Evil. London.](https://books.google.co.uk/books?id=RnBKAAAAMAAJ&newbks=0&printsec=frontcover&dq=%22Enquiry+into+the+causes+of+the+late+increase+in+robbers%22&hl=en&redir_esc=y#v=onepage&q&f=false)
 <param ve-image 
        label="Fielding, Henry. 1751. An Enquiry into the Cause of the Late Increase of Robbers, &c., With Some Proposals for Remedying this Growing Evil. London." 
@@ -222,7 +222,7 @@ A couple of the instructions to the police issued at the outset by Mayne may be 
 The code of discipline was rigorous and during the first nine years of the force, nearly 5,000 constables were dismissed for failing to fulfil its requirements.’\
 Babbington, A. A House in Bow Street. 2nd ed. London: Barry Rose Law Publishers, 1999.
 <param ve-image 
-       label="The early years of the police were marred by violent clashes, which did little to change the animosity amongst the population towards the new organisation.\
+       label="The early years of the police were marred by violent clashes, which did little to change the animosity amongst the population towards the new organisation.<br>
        The police, wearing Peel’s early uniform, contend with a mob at at Coldbath fields, 1833. Griffiths, Arthur. Mysteries of police and crime. In three volumes. London: Cassell, 1901-1902." 
        description="Illustration" 
        license="CC BY-SA 4.0" 
@@ -247,7 +247,7 @@ The Metropolitan Police’s heritage team looks after objects, archives, books a
 
 ## ‘The entire success of the police force’: The new Metropolitan police (1829)
 
-The new police were colloquially referred to as Peelers: “1858 Penny Cycl. 2nd Suppl. 494/1 Mr. Peel as Home Secretary, introduced . . the new Metropolitan Police Act [1829] which provided London with its efficient body of ‘Peelers’, subject to the Home Office, in lieu of the Old ‘Charlies’ (Simpson, Weiner, Eds., The Oxford English Dictionary, 2nd Ed., Vol XI, Oxford: Clarendon Press, 1989). The 1839 renewal of the original Metropolitan Police Act was designed to integrate the various iterations of policing already extant in London at that time: The Bow Street Runners, the river police, and the few Watchmen whose role served little purpose by the turn-of-the-nineteenth-century. Despite reactionary attitudes to the introduction of the new force, many established individuals in London, including politicians, praised Peel’s reformation of policing and his commitment to reducing London’s crime.\
+The new police were colloquially referred to as Peelers: “1858 Penny Cycl. 2nd Suppl. 494/1 Mr. Peel as Home Secretary, introduced . . the new Metropolitan Police Act [1829] which provided London with its efficient body of ‘Peelers’, subject to the Home Office, in lieu of the Old ‘Charlies’ (Simpson, Weiner, Eds., The Oxford English Dictionary, 2nd Ed., Vol XI, Oxford: Clarendon Press, 1989). The 1839 renewal of the original Metropolitan Police Act was designed to integrate the various iterations of policing already extant in London at that time: The Bow Street Runners, the river police, and the few Watchmen whose role served little purpose by the turn-of-the-nineteenth-century. Despite reactionary attitudes to the introduction of the new force, many established individuals in London, including politicians, praised Peel’s reformation of policing and his commitment to reducing London’s crime.<br>
 In a letter to Peel, The Duke of Wellington, on November 5, 1829, congratulated Peel on the “entire success” of his newly-established force. Such opinions were different to those held by members of the Honourable Society of the Middle Temple twenty years after the formation of the Metropolitan Police.
 <param ve-image 
        label="Stuart Parker, C. Sir Robert Peel in early life ... as Irish Secretary ... and as Secretary of State ... from his private correspondence. In three volumes. London: John Murray, 1891-1899." 
@@ -266,7 +266,7 @@ The introduction of the City Police to Middle Temple in 1857 was a contentious i
 
 ## 7 May 1857 & 17 June 1857
 
-Copy of a Resolution of the Inner Temple Bench Table concerning agreement with the Middle Temple's resolution regarding the Police of the Temple and the City of London Police.\
+Copy of a Resolution of the Inner Temple Bench Table concerning agreement with the Middle Temple's resolution regarding the Police of the Temple and the City of London Police.<br>
 On the 7th May Middle Temple agrees to consolidate the Inn’s police under one head and to allow in the City police, under the proviso that Inner Temple has no objections, and moves to form a committee to put this into effect. In a clear sign that the issue was a contentious one, the 17th June sees Inner temple agreeing to the consolidation, but defers the decision on the City police.
 <param ve-image 
        label="Resolution, 7th May 1857" 
@@ -292,14 +292,14 @@ The petition states that it is with ‘extreme regret’ that they hear the Mast
        
 ## 16 July 1857     
 
-Letter from George Bowyer concerning a barrister having been dragged from the Temple by the Police.\
-\
-Sir,\
+Letter from George Bowyer concerning a barrister having been dragged from the Temple by the Police.
+<br><br>
+Sir,<br>
 I beg to call your attention to the fact that a short time ago a barrister of the Middle Temple was dragged out of the Temple in the night by the Police, and compelled to appear before the city magistrate in the morning. I do not inquire whether he was right or wrong. I only ask whether this scandal on our house could possibly have happened under our ancient and immemorial system. I should like to know what would be thought of a graduate residing in a college in Oxford or Cambridge being so treated. It seems to me that this event shows the inconveniences which are likely to arise from the act of the benchers, who have altered the character of the house and its ancient constitution and privileges, without even ascertaining the wishes and feelings of the barristers residing therein.\
-I beg to add that a very strong feeling prevails on the subject. Many members of the Middle Temple feel that for sake of a paltry saving, which good management would have rendered [illegible], the collegiate character of the house has been destroyed, and the privileges of this honourable society extinguished by a self-elected body.\
-Your obedient servant,\
-George Bowyer\
-\
+I beg to add that a very strong feeling prevails on the subject. Many members of the Middle Temple feel that for sake of a paltry saving, which good management would have rendered [illegible], the collegiate character of the house has been destroyed, and the privileges of this honourable society extinguished by a self-elected body.<br>
+Your obedient servant,<br>
+George Bowyer
+
 [Audio](https://user-images.githubusercontent.com/110464039/185080594-9bc54281-eb92-4a99-b1ab-58da47697040.mp4)
 <param ve-image 
        label="George Bowyer, 16th July 1857" 
@@ -309,13 +309,13 @@ George Bowyer\
 
 ## 25 July 1857     
 
-Letter from George Bowyer to the Under-Treasurer concerning the presence of the Police in the Inn and its effect on its style and collegiate character.\
-\
-Sir,\
+Letter from George Bowyer to the Under-Treasurer concerning the presence of the Police in the Inn and its effect on its style and collegiate character.
+<br><br>
+Sir,<br>
 In answer to your letter of the 21st I beg to say that I have no wish to make complaints against the Police. They are a most useful and a respectable body of men. But they are out of place in a collegiate house like the Temple, and inconveniences must result from their introduction here. The style and ancient collegiate character of the house are altered by the late change. We no longer see the servants of the house in their liveries at the gates, and in the courts and gardens. The Temple is now like a London street, and no longer like a college. It’s privacy and peculiar gentlemen-like character are destroyed, which were quite a remarkable feature of London, and this has been done on the paltry plea of saving £210 a year and ultimately £300 a year [£25,000 to £35,000 by today’s standards] without consulting the wishes and feelings of the barristers living in the Inn. They will soon find the Temple so changed that they will many of them go to live elsewhere to the diminution of the rents of the Society. I beg that this letter may be laid before the Masters of the Bench.\
-Your obedient servant,\
-George Bowyer\
-\
+Your obedient servant,<br>
+George Bowyer<br>
+
 [Audio](https://user-images.githubusercontent.com/110464039/185081002-4333e8b7-e69e-4a70-82d5-fc045cae10c7.mp4)
 <param ve-image 
        label="George Bowyer, 25th July 1857" 
@@ -326,10 +326,10 @@ George Bowyer\
 ## 5 October 1857
 
 Letter from Richard Paternoster to the Treasurer, complaining of the noise made by the Police outside his chambers at night, and its effects on his health.\
-To the Treasurer of the Middle Temple,\
-\
-I hereby give you notice and require of you to put a stop to the nuisance caused to me by policemen tramping under my windows at night from the noise of which my rest is continually broken every night my comfort and privacy entirely destroyed and my health materially injured and my chambers rendered untenantable and which noise and nuisance are in violation of the contract entered into when I took chambers at this society of which I am a member and a partner and contrary to the ancient and immemorial rights customs and privileges of this Inn.\
-\
+To the Treasurer of the Middle Temple,
+<br><br>
+I hereby give you notice and require of you to put a stop to the nuisance caused to me by policemen tramping under my windows at night from the noise of which my rest is continually broken every night my comfort and privacy entirely destroyed and my health materially injured and my chambers rendered untenantable and which noise and nuisance are in violation of the contract entered into when I took chambers at this society of which I am a member and a partner and contrary to the ancient and immemorial rights customs and privileges of this Inn.<br>
+
 [Audio](https://user-images.githubusercontent.com/110464039/185081116-24e8fc07-09b3-426a-9065-a6ded0640efe.mp4)
 <param ve-image 
        label="Richard Paternoster, 5th October 1857" 
@@ -339,11 +339,11 @@ I hereby give you notice and require of you to put a stop to the nuisance caused
        
 ## 27 October 1857        
 
-Letter from A.V. Kirwan complaining of noise at his window caused by the Police's failure to disperse children and drunkards and a Ticket Porter's habitual use of obscene language.\
-\
-Dear Sir,\
-I am loathe to give notice to quit in these chambers which suit me well, but the truth is, since the police have come in it is impossible to sit here for the noises. The old warders drove away children and noisy drunken people, but the police allow them to congregate. I would also mention that the ticket porters one [illegible] especially is continuing making a noise and using low and obscene language under my window while idly sitting on the bench in Tanfield Court. I regret to be obliged to complain but the nuisance has been quite intolerable for some months.\
-\
+Letter from A.V. Kirwan complaining of noise at his window caused by the Police's failure to disperse children and drunkards and a Ticket Porter's habitual use of obscene language.
+<br><br>
+Dear Sir,<br>
+I am loathe to give notice to quit in these chambers which suit me well, but the truth is, since the police have come in it is impossible to sit here for the noises. The old warders drove away children and noisy drunken people, but the police allow them to congregate. I would also mention that the ticket porters one [illegible] especially is continuing making a noise and using low and obscene language under my window while idly sitting on the bench in Tanfield Court. I regret to be obliged to complain but the nuisance has been quite intolerable for some months.
+<br><br>
 [Audio](https://user-images.githubusercontent.com/110464039/185081211-8c5b0ad0-223b-4eb7-80db-271fda01b9b7.mp4)
 <param ve-image 
        label="A.V.Kirwan, 27th October 1857" 
@@ -354,7 +354,7 @@ I am loathe to give notice to quit in these chambers which suit me well, but the
 
 ## The badge of a Middle Temple Watchman circa 1842
 
-As far back as the seventeenth century the watchmen and porters could be seen wearing silver badges. The Inn’s silver collection includes a Head Porter’s badge from around 1685.\
+As far back as the seventeenth century the watchmen and porters could be seen wearing silver badges. The Inn’s silver collection includes a Head Porter’s badge from around 1685.<br>
 This is Watchman & Porter badge number five, of seven badges held in total. It was made to order by George Cording, watchmaker and jeweller, in 1842. The leopard head in the maker/sponsor’s mark shows that it is London silver, and it is struck with the mark of James Charles Edington, a silversmith working in Soho from 1828 to around 1869.
 <param ve-image 
        label="Middle Temple Watchman and Porter Badge number 5" 
@@ -364,8 +364,8 @@ This is Watchman & Porter badge number five, of seven badges held in total. It w
        
 ## A hand-drawn plan showing the beats taken by Watchmen around the Inn circa 1850
 
-Porters and watchmen have served the Middle Temple for centuries, dating back at least to 1587, with the policing of the Inn always being one of their many roles.\
-‘The duties of the Porter were, then, chiefly to keep undesirables out of the Inn and prevent them from harassing those dining in Hall. An order of Parliament in 1652 also names the Porter as one of the officers appointed to carry corpses, and in 1654 a fuller account is given of the increasingly varied role, which required the incumbent to 'industriously keep clean the courts, look to the gate and House, and at least once every night walk about the courts and up every stairs to prevent robberies, which have lately been often committed' and to 'keep out of the House all vagrant people who cry 'milk' or any other thing, not usual and proper to this Society.'’\
+Porters and watchmen have served the Middle Temple for centuries, dating back at least to 1587, with the policing of the Inn always being one of their many roles.<br>
+‘The duties of the Porter were, then, chiefly to keep undesirables out of the Inn and prevent them from harassing those dining in Hall. An order of Parliament in 1652 also names the Porter as one of the officers appointed to carry corpses, and in 1654 a fuller account is given of the increasingly varied role, which required the incumbent to 'industriously keep clean the courts, look to the gate and House, and at least once every night walk about the courts and up every stairs to prevent robberies, which have lately been often committed' and to 'keep out of the House all vagrant people who cry 'milk' or any other thing, not usual and proper to this Society.'’
 [Archive of the Month June 2019: Five Centuries of Keeping the Peace - The Porters of Middle Temple](https://www.middletemple.org.uk/archive-history/archive-month/june-2019-five-centuries-keeping-peace-porters-middle-temple)
 <param ve-image 
        label="Beats of the Middle Temple Watchmen 1850" 
@@ -375,14 +375,14 @@ Porters and watchmen have served the Middle Temple for centuries, dating back at
 
 ## The following individuals have made significant contributions to the creation of this exhibition:
 
-Jake Hearn, Assistant Librarian, Middle Temple\
-Barnaby Bryan, Archivist, Middle Temple\
-Liane Owen, Book Conservator, Middle Temple\
-Siobhán Prendergast, Conservator, Middle Temple\
-Dunstan Speight, Librarian, Lincoln’s Inn\
-Francesca Tate, Assistant Archivist, Middle Temple\
-Patrick Ghirardello, Senior Library Assistant, Middle Temple\
-\
+Jake Hearn, Assistant Librarian, Middle Temple<br>
+Barnaby Bryan, Archivist, Middle Temple<br>
+Liane Owen, Book Conservator, Middle Temple<br>
+Siobhán Prendergast, Conservator, Middle Temple<br>
+Dunstan Speight, Librarian, Lincoln’s Inn<br>
+Francesca Tate, Assistant Archivist, Middle Temple<br>
+Patrick Ghirardello, Senior Library Assistant, Middle Temple
+<br><br>
 [Middle Temple Library](https://www.middletemplelibrary.org.uk)
 <param ve-image 
        label="Middle Temple" 
