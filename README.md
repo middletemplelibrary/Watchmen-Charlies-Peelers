@@ -299,6 +299,7 @@ I beg to call your attention to the fact that a short time ago a barrister of th
 I beg to add that a very strong feeling prevails on the subject. Many members of the Middle Temple feel that for sake of a paltry saving, which good management would have rendered [illegible], the collegiate character of the house has been destroyed, and the privileges of this honourable society extinguished by a self-elected body.<br>
 Your obedient servant,<br>
 George Bowyer
+<br><br>
 [Audio](https://user-images.githubusercontent.com/110464039/185080594-9bc54281-eb92-4a99-b1ab-58da47697040.mp4)
 <param ve-image 
        label="George Bowyer, 16th July 1857" 
@@ -313,8 +314,8 @@ Letter from George Bowyer to the Under-Treasurer concerning the presence of the 
 Sir,<br>
 In answer to your letter of the 21st I beg to say that I have no wish to make complaints against the Police. They are a most useful and a respectable body of men. But they are out of place in a collegiate house like the Temple, and inconveniences must result from their introduction here. The style and ancient collegiate character of the house are altered by the late change. We no longer see the servants of the house in their liveries at the gates, and in the courts and gardens. The Temple is now like a London street, and no longer like a college. It’s privacy and peculiar gentlemen-like character are destroyed, which were quite a remarkable feature of London, and this has been done on the paltry plea of saving £210 a year and ultimately £300 a year [£25,000 to £35,000 by today’s standards] without consulting the wishes and feelings of the barristers living in the Inn. They will soon find the Temple so changed that they will many of them go to live elsewhere to the diminution of the rents of the Society. I beg that this letter may be laid before the Masters of the Bench.<br>
 Your obedient servant,<br>
-George Bowyer<br>
-
+George Bowyer
+<br><br>
 [Audio](https://user-images.githubusercontent.com/110464039/185081002-4333e8b7-e69e-4a70-82d5-fc045cae10c7.mp4)
 <param ve-image 
        label="George Bowyer, 25th July 1857" 
@@ -324,11 +325,12 @@ George Bowyer<br>
 
 ## 5 October 1857
 
-Letter from Richard Paternoster to the Treasurer, complaining of the noise made by the Police outside his chambers at night, and its effects on his health.<br>
+Letter from Richard Paternoster to the Treasurer, complaining of the noise made by the Police outside his chambers at night, and its effects on his health.
+<br><br>
 To the Treasurer of the Middle Temple,
 <br><br>
-I hereby give you notice and require of you to put a stop to the nuisance caused to me by policemen tramping under my windows at night from the noise of which my rest is continually broken every night my comfort and privacy entirely destroyed and my health materially injured and my chambers rendered untenantable and which noise and nuisance are in violation of the contract entered into when I took chambers at this society of which I am a member and a partner and contrary to the ancient and immemorial rights customs and privileges of this Inn.<br>
-
+I hereby give you notice and require of you to put a stop to the nuisance caused to me by policemen tramping under my windows at night from the noise of which my rest is continually broken every night my comfort and privacy entirely destroyed and my health materially injured and my chambers rendered untenantable and which noise and nuisance are in violation of the contract entered into when I took chambers at this society of which I am a member and a partner and contrary to the ancient and immemorial rights customs and privileges of this Inn.
+<br><br>
 [Audio](https://user-images.githubusercontent.com/110464039/185081116-24e8fc07-09b3-426a-9065-a6ded0640efe.mp4)
 <param ve-image 
        label="Richard Paternoster, 5th October 1857" 
