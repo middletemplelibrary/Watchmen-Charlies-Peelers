@@ -305,7 +305,7 @@ George Bowyer
        label="George Bowyer, 16th July 1857" 
        description="Photograph" 
        license="CC BY-SA 4.0" 
-       url="https://user-images.githubusercontent.com/110111269/184659167-3bc54c88-cca0-43eb-a9a1-6f1cc5720649.JPG">
+       url="https://user-images.githubusercontent.com/110464039/225688955-ce88ce5c-d9e1-4cc3-b7d8-218363d44c26.JPG">
 
 ## 25 July 1857     
 
@@ -327,8 +327,7 @@ George Bowyer
 
 Letter from Richard Paternoster to the Treasurer, complaining of the noise made by the Police outside his chambers at night, and its effects on his health.
 <br><br>
-To the Treasurer of the Middle Temple,
-<br><br>
+To the Treasurer of the Middle Temple,<br>
 I hereby give you notice and require of you to put a stop to the nuisance caused to me by policemen tramping under my windows at night from the noise of which my rest is continually broken every night my comfort and privacy entirely destroyed and my health materially injured and my chambers rendered untenantable and which noise and nuisance are in violation of the contract entered into when I took chambers at this society of which I am a member and a partner and contrary to the ancient and immemorial rights customs and privileges of this Inn.
 <br><br>
 [Audio](https://user-images.githubusercontent.com/110464039/185081116-24e8fc07-09b3-426a-9065-a6ded0640efe.mp4)
@@ -350,8 +349,7 @@ I am loathe to give notice to quit in these chambers which suit me well, but the
        label="A.V.Kirwan, 27th October 1857" 
        description="Photograph" 
        license="CC BY-SA 4.0" 
-       url="https://user-images.githubusercontent.com/110111269/184658934-a8a250a9-7fcc-407a-a4a6-4bbe42972ca6.JPG">
-      
+       url="https://user-images.githubusercontent.com/110464039/225689172-d727e741-f9c6-427a-9b44-3a1f699b5b6b.JPG">
 
 ## The badge of a Middle Temple Watchman circa 1842
 
@@ -366,7 +364,7 @@ This is Watchman & Porter badge number five, of seven badges held in total. It w
 ## A hand-drawn plan showing the beats taken by Watchmen around the Inn circa 1850
 
 Porters and watchmen have served the Middle Temple for centuries, dating back at least to 1587, with the policing of the Inn always being one of their many roles.<br>
-‘The duties of the Porter were, then, chiefly to keep undesirables out of the Inn and prevent them from harassing those dining in Hall. An order of Parliament in 1652 also names the Porter as one of the officers appointed to carry corpses, and in 1654 a fuller account is given of the increasingly varied role, which required the incumbent to 'industriously keep clean the courts, look to the gate and House, and at least once every night walk about the courts and up every stairs to prevent robberies, which have lately been often committed' and to 'keep out of the House all vagrant people who cry 'milk' or any other thing, not usual and proper to this Society.'’
+‘The duties of the Porter were, then, chiefly to keep undesirables out of the Inn and prevent them from harassing those dining in Hall. An order of Parliament in 1652 also names the Porter as one of the officers appointed to carry corpses, and in 1654 a fuller account is given of the increasingly varied role, which required the incumbent to 'industriously keep clean the courts, look to the gate and House, and at least once every night walk about the courts and up every stairs to prevent robberies, which have lately been often committed' and to 'keep out of the House all vagrant people who cry 'milk' or any other thing, not usual and proper to this Society.'’<br>
 [Archive of the Month June 2019: Five Centuries of Keeping the Peace - The Porters of Middle Temple](https://www.middletemple.org.uk/archive-history/archive-month/june-2019-five-centuries-keeping-peace-porters-middle-temple)
 <param ve-image 
        label="Beats of the Middle Temple Watchmen 1850" 
