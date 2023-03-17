@@ -85,7 +85,8 @@ The second Act, which was passed in 1777 (14 Geo III, c. 90), took elements of t
 
 ## ‘[A] proper body of honest, able, and active Officers’ [1798]
 Scottish magistrate Patrick Colquhoun (1745-1820) had a profound impact on the policing system in London during the late eighteenth and early nineteenth centuries. In his Treatise on the Police of the Metropolis, Colquhoun outlined the untrustworthiness of the authorities whose job it was to protect civilians – this was in direct response to eighteenth-century public opinions towards those in authority. Further to this general analysis, Colquhoun went on to outline the need for a ‘proper body of honest, able, and active officers and patroles’.<br>
-His comments follow those of Henry Fielding’s, whose work Colquhoun greatly admired; it summarised commonplace criminal offenses in London, and provided suggestions on how to prevent them.<br>
+His comments follow those of Henry Fielding’s, whose work Colquhoun greatly admired; it summarised commonplace criminal offenses in London, and provided suggestions on how to prevent them.
+<br><br>
 [Yeats, Grant David. 1818. A biographical sketch of the life and writings of Patrick Colquhoun. London:](https://archive.org/details/abiographicalsk00yeatgoog/page/n10/mode/2up)
 <param ve-image 
        label="Colquhoun, Patrick. 1798. A Treatise on the Police of the Metropolis: Containing a Detail of the Various Crimes and Misdemeanors by which Public and Private Property and Security Are, at Present, Injured and Endangered, and Suggesting Remedies for Their Prevention. London. (Courtesy of the Library at The Honourable Society of Lincoln’s Inn)" 
@@ -149,6 +150,7 @@ John Fielding ‘was a most active and energetic magistrate, and he was such a c
        url="https://www.middletemple.org.uk/sites/default/files/Uploads/IMG_0056.JPG">
        
 ## The Bow Street Runners (1749)
+
 Once regarded as the nexus of the police establishment in the mid-eighteenth century, the office at Bow Street, and its eight officers, were at the disposal of the public. They were provided with handcuffs, a pistol and a stick, and were paid a guinea a week to prevent criminal activity. The runners also received rewards from each successful conviction. At first, they wore their own clothes but were later given a uniform. Despite being a small establishment in the mid-eighteenth century, by 1800 there were sixty-eight Bow Street Runners.
 <param ve-image 
        label="Bow Street plaque" 
@@ -158,7 +160,8 @@ Once regarded as the nexus of the police establishment in the mid-eighteenth cen
 
 ## Bow Street Police Museum
 
-This recently-opened museum tells the story of the Bow Street Runners and the Metropolitan Police officers who patrolled the streets of Covent Garden in their footsteps. From eighteenth century crime fighting to the closure of one of London's first police stations in 1992, explore the important and fascinating tales of Bow Street and its unique links with police history.<br>
+This recently-opened museum tells the story of the Bow Street Runners and the Metropolitan Police officers who patrolled the streets of Covent Garden in their footsteps. From eighteenth century crime fighting to the closure of one of London's first police stations in 1992, explore the important and fascinating tales of Bow Street and its unique links with police history.
+<br><br>
 [Museum website](https://bowstreetpolicemuseum.org.uk/)
 <param ve-image 
        label="Bow Street Magistrates Court." 
@@ -180,7 +183,8 @@ A pair of linked prison shackles with their key attached to them with a rope. Th
 ## ‘Remedying this Growing Evil’: Fielding and the Prevention of Crime (1751)
 
 Henry Fielding’s Enquiry – published in January 1751 – was written during his tenure as Bow Street Magistrate from 1748 until 1753.  Fielding was not only concerned with establishing a new system of policing, but was also focused on the long-term prevention of crime. This approach was commended by Patrick Colquhoun, who, in a footnote in his own Treatise of 1800, outlined that Fielding was both ‘able and excellent’ in his role as Justice of the Peace and for his work on ‘remedying this growing evil’ that had ‘manifested’ in London.<br>
-The frontispiece of Fielding’s Enquiry, quotes Cicero: ‘For the lusts of these men are no longer moderate, and their wantonness is inhuman and unbearable, they think of nothing but murder, arson, and rape’. His use of Greek literature was an analogy to the state of public morality and crime in the mid-eighteenth century. His Enquiry went on to have a lasting influence on the debate about the prevention of crime in London, leading up to Sir Robert Peel’s Metropolitan Police Act in 1829.<br>
+The frontispiece of Fielding’s Enquiry, quotes Cicero: ‘For the lusts of these men are no longer moderate, and their wantonness is inhuman and unbearable, they think of nothing but murder, arson, and rape’. His use of Greek literature was an analogy to the state of public morality and crime in the mid-eighteenth century. His Enquiry went on to have a lasting influence on the debate about the prevention of crime in London, leading up to Sir Robert Peel’s Metropolitan Police Act in 1829.
+<br><br>
 [Fielding, Henry. 1751. An Enquiry into the Cause of the Late Increase of Robbers, &c., With Some Proposals for Remedying this Growing Evil. London.](https://books.google.co.uk/books?id=RnBKAAAAMAAJ&newbks=0&printsec=frontcover&dq=%22Enquiry+into+the+causes+of+the+late+increase+in+robbers%22&hl=en&redir_esc=y#v=onepage&q&f=false)
 <param ve-image 
        label="Fielding, Henry. 1751. An Enquiry into the Cause of the Late Increase of Robbers, &c., With Some Proposals for Remedying this Growing Evil. London." 
@@ -237,6 +241,7 @@ Babbington, A. A House in Bow Street. 2nd ed. London: Barry Rose Law Publishers,
 ## Met Museums & Archives
 
 The Metropolitan Police’s heritage team looks after objects, archives, books and photographs relating to the history of the Met since 1829. They tell the lives of its officers and staff across London and beyond, and the crimes it has sought to solve.
+<br><br>
 [Museum website](https://www.met.police.uk/police-forces/metropolitan-police/areas/about-us/about-the-met/met-museums-archives)
 <param ve-image 
        label="1840s City of London Police constable's uniform" 
@@ -363,7 +368,8 @@ This is Watchman & Porter badge number five, of seven badges held in total. It w
 ## A hand-drawn plan showing the beats taken by Watchmen around the Inn circa 1850
 
 Porters and watchmen have served the Middle Temple for centuries, dating back at least to 1587, with the policing of the Inn always being one of their many roles.<br>
-‘The duties of the Porter were, then, chiefly to keep undesirables out of the Inn and prevent them from harassing those dining in Hall. An order of Parliament in 1652 also names the Porter as one of the officers appointed to carry corpses, and in 1654 a fuller account is given of the increasingly varied role, which required the incumbent to 'industriously keep clean the courts, look to the gate and House, and at least once every night walk about the courts and up every stairs to prevent robberies, which have lately been often committed' and to 'keep out of the House all vagrant people who cry 'milk' or any other thing, not usual and proper to this Society.'’<br>
+‘The duties of the Porter were, then, chiefly to keep undesirables out of the Inn and prevent them from harassing those dining in Hall. An order of Parliament in 1652 also names the Porter as one of the officers appointed to carry corpses, and in 1654 a fuller account is given of the increasingly varied role, which required the incumbent to 'industriously keep clean the courts, look to the gate and House, and at least once every night walk about the courts and up every stairs to prevent robberies, which have lately been often committed' and to 'keep out of the House all vagrant people who cry 'milk' or any other thing, not usual and proper to this Society.'’
+<br><br>
 [Archive of the Month June 2019: Five Centuries of Keeping the Peace - The Porters of Middle Temple](https://www.middletemple.org.uk/archive-history/archive-month/june-2019-five-centuries-keeping-peace-porters-middle-temple)
 <param ve-image 
        label="Beats of the Middle Temple Watchmen 1850" 
