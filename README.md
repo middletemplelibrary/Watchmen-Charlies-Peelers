@@ -315,6 +315,7 @@ George Bowyer
        description="Photograph" 
        license="CC BY-SA 4.0" 
        url="https://user-images.githubusercontent.com/110464039/225691154-4de5e854-64c5-4a36-a1a6-84f85dab9fb0.JPG">
+
 ## 25 July 1857     
 
 Letter from George Bowyer to the Under-Treasurer concerning the presence of the Police in the Inn and its effect on its style and collegiate character.
